@@ -29,6 +29,16 @@ CardiaRisk-Detection-System is a comprehensive project developed in Python, part
 - Seaborn
 - Tableau
 
+## Dataset Source
+
+The dataset used in this project was obtained from **Kaggle**, a platform for data science competitions and datasets.
+
+## Team Collaboration
+
+This project was completed by a team of two individuals:
+- Prisha Tank
+- Anushka Singh
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features related to data analysis, model development, visualization techniques, or application development. Let's work together to enhance proactive healthcare measures and contribute to better heart health awareness.
